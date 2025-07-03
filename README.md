@@ -1,4 +1,4 @@
-[Live Demo]((https://helpdesk-system-one.vercel.app/login)
+[Live Demo](https://helpdesk-system-one.vercel.app/login)
 
 # 🛠️ Helpdesk Ticketing System
 
