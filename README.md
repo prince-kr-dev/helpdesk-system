@@ -2,7 +2,29 @@
 
 A simple web-based Helpdesk Ticketing System built using **React.js** that allows users to create and track support tickets. It includes features like user authentication, a dashboard, ticket submission, and performance tracking.
 
+## 🔐 Default Login Credentials (For Testing Without Signup)
+
+You can use the following sample credentials to log in without signing up:
+
+```
+Email: prince@gmail.com  
+Password: prince123
+```
+
+> Or, if you prefer, you can create a new account using the **Signup** page.
+
+
 ---
+## 📦 Data Storage Disclaimer
+
+This project **does not use any database or backend server**.  
+All user session and ticket data are temporarily stored in the **browser's local storage**.
+
+> ⚠️ This means:
+> - Data will be lost if the user clears browser storage or switches devices/browsers.
+> - This project is intended for demonstration or front-end practice purposes only.
+> - I will extend it in the future by integrating a backend like Firebase, Express, or MongoDB.
+
 
 ## 🚀 Features
 
@@ -13,7 +35,7 @@ A simple web-based Helpdesk Ticketing System built using **React.js** that allow
   - Displays key statistics like total tickets, status distribution, and performance summaries
 
 - 📝 **New Ticket Submission**  
-  - Users can create new tickets by providing a subject, description, and priority
+  - Users can create new tickets by providing a subject, description, and priority etc.
 
 - 📁 **My Tickets**  
   - Users can view and manage the tickets they have submitted
@@ -58,7 +80,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/helpdesk-project.git
+https://github.com/prince-kr-dev/helpdesk-system.git
 cd helpdesk-project
 ```
 
