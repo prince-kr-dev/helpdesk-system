@@ -76,6 +76,27 @@ src/
 
 
 ---
+## Screenshots
+# Login
+![0](https://github.com/user-attachments/assets/705fd337-6cd0-4ff7-9c8a-f13dadf0820f)
+
+# Signup
+![1](https://github.com/user-attachments/assets/2e90b5c1-3daa-438d-b525-9b0adbcd9bcb)
+
+# Dashboard
+![3](https://github.com/user-attachments/assets/83178b8f-ded9-4946-81af-330b89831c2d)
+
+# New Ticket
+![4](https://github.com/user-attachments/assets/e5fed1f0-817c-4312-8eb2-d5ef917879ab)
+
+# My Ticket
+![5](https://github.com/user-attachments/assets/088767a9-5c78-4608-9bdd-3d9c7a1a9990)
+
+# Ticket Details
+![6](https://github.com/user-attachments/assets/d6f19cfe-05a2-4265-8b7b-ae08e7eb8328)
+
+# Performance
+![2](https://github.com/user-attachments/assets/5b68ffb5-df81-4b91-9c81-1ee5ca10b09c)
 
 ## 🛠️ Getting Started
 
